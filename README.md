@@ -1,4 +1,4 @@
-This is a dumb game that I try buliding to practice pygame, if you wish to run it, follow the following steps:
+This is a dumb game that I try building to practice pygame, if you wish to run it, follow the following steps:
 
 
 1. Install all the packages in requirements.txt
